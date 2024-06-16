@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my second data project with Eniac, the e-commerce tech company. As a Data Analyst, I will be working with internal, non-anonymized data, which presents a more complex and chaotic dataset. This project will require the use of Python over SQL due to the complexity of the tasks.
+Welcome to my data analysis project with Eniac, the e-commerce tech company. As a Data Analyst, I will be working with internal data, which presents a more complex and chaotic dataset. This project will require the use of Python over SQL due to the complexity of the tasks.
 
 ## Project Objective
 
